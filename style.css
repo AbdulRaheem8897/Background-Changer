@@ -1,0 +1,59 @@
+body{
+  margin: 0%;
+    padding: 20px 100px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    /* color: #fff; */
+    text-shadow: 2px 2px #000;
+    text-decoration: underline;
+}
+
+img{
+
+    display: block;  
+margin-left: auto;  
+margin-right: auto;  
+border: 2px ridge blue;  
+padding: 5px;  
+border-radius: 30px;
+}
+
+p{
+    font-size: 20px;
+   text-align: justify;
+}
+
+
+.btn{
+   width: 20px;
+   height: 20px;
+   display: inline-block;
+   border: solid grey 2px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+#white{
+    background-color:white;
+}
+
+#black{
+    background-color: black;
+}
+
+#violet{
+    background-color: violet;
+}
+
+#aqua{
+    background-color: aqua;
+}
+
+
+#color-switch{
+    text-align: right;
+}
